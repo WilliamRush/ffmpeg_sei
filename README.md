@@ -1,4 +1,7 @@
-FFmpeg README
+FFmpeg SEI README
+Support analyze Supplemental Enhancement Information(SEI) in H264
+
+
 =============
 
 FFmpeg is a collection of libraries and tools to process multimedia content
